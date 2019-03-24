@@ -10,7 +10,7 @@ from victory_window import *
 # 2) global timer and waves(timing) +
 # 3) waves conditions +
 # 4) graphics(main, shop) +
-# 5) in-game economy +
+# 5) in-game economy + 
 
 
 class GameData:
